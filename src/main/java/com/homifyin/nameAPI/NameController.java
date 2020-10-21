@@ -9,6 +9,6 @@ public class NameController {
 
     @GetMapping("/name")
     public String getName(){
-        return "Mike using systemctl horayyy!";
+        return "Mike using test1";
     }
 }
