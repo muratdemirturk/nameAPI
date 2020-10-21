@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.homifyin</groupId>
 	<artifactId>nameAPI</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>2020</version>
 	<name>nameAPI</name>
 	<description>Demo project for Spring Boot</description>
 
