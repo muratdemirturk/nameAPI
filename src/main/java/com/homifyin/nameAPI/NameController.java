@@ -9,6 +9,6 @@ public class NameController {
 
     @GetMapping("/name")
     public String getName(){
-        return "M.D is going to install ssl soon! ";
+        return "M.D is cheking if Jenkins will delete external application.properties file! ";
     }
 }
